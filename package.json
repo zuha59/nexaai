@@ -1,0 +1,1 @@
+{"dependencies":{"react":"^18.3.1","react-dom":"^18.3.1"},"description":"React frontend for the Ibtida AI institute website","devDependencies":{"@vitejs/plugin-react":"^4.3.1","vite":"^5.4.0"},"name":"nexaai-client","private":true,"scripts":{"build":"vite build","dev":"vite","preview":"vite preview"},"type":"module","version":"1.0.0"}
